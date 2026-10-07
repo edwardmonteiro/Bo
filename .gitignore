@@ -1,0 +1,9 @@
+/build/
+/.gradle/
+/local.properties
+*.keystore
+*.jks
+*.p12
+.env*
+node_modules/
+tests/output/
